@@ -9,7 +9,7 @@
 - Uncertainty-Guided Diffusion Model for Camouflaged Object Detection, [TMM](https://ieeexplore.ieee.org/abstract/document/10855518), 2025.
 - MM-CamObj: A Comprehensive Multimodal Dataset for Camouflaged Object Scenarios. [AAAI](https://arxiv.org/abs/2409.16084),[CODE](https://github.com/JCruan519/MM-CamObj), 2025.
 - CoNet: A Consistency-Oriented Network for Camouflaged Object Segmentation. [TCSVT](https://ieeexplore.ieee.org/document/10681598), 2025.
-- MVGNet: A Universal Multi-View Guided Network for Salient Object and Camouflaged Object Detection. [TCSVT](https://ieeexplore.ieee.org/document/10568109)/[CODE](https://github.com/1900zpf/MVGNet), 2024.
+- MVGNet: A Universal Multi-View Guided Network for Salient Object and Camouflaged Object Detection. [TCSVT](https://ieeexplore.ieee.org/document/10568109), [CODE](https://github.com/1900zpf/MVGNet), 2024.
 - VSCode: General Visual Salient and Camouflaged Object Detection with 2D Prompt Learning, [CVPR](https://openaccess.thecvf.com/content/CVPR2024/papers/Luo_VSCode_General_Visual_Salient_and_Camouflaged_Object_Detection_with_2D_CVPR_2024_paper.pdf)/[CODE](https://github.com/Sssssuperior/VSCode), 2024.
 - SINet, SINetV2, [Link](https://mmcheng.net/cod/)
   - SINet: Camouflaged Object Detection, [CVPR](https://openaccess.thecvf.com/content_CVPR_2020/papers/Fan_Camouflaged_Object_Detection_CVPR_2020_paper.pdf), [CODE](https://github.com/DengPingFan/SINet), 2020
