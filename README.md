@@ -22,3 +22,9 @@
 - S-MGL: Mutual graph learning for camouﬂaged object detection, [CVPR](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhai_Mutual_Graph_Learning_for_Camouflaged_Object_Detection_CVPR_2021_paper.pdf), [CODE](https://github.com/fanyang587/MGL), 2021
 - C2FNet: Context-aware cross-level fusion network for camouﬂaged object detection, [IJCAI](https://arxiv.org/abs/2105.12555), [CODE](https://github.com/thograce/C2FNet), 2021
 - LSR: Towards deeper understanding of camouflaged object detection, [TCSVT](https://ieeexplore.ieee.org/document/10007893), [CODE](https://github.com/JingZhang617/COD-Rank-Localize-and-Segment), 2021
+
+
+
+
+![avatar](/COD_SOD.png)
+**Fig 1.** COD v.s. SOD [image from USCNet].
