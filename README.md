@@ -1,4 +1,4 @@
-# COD
+# COD [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green)![Stars](https://img.shields.io/github/stars/VisionVerse/COD-Survey)
 
 **Survey**
 - https://github.com/visionxiang/awesome-camouflaged-object-detection
