@@ -5,6 +5,7 @@
 - https://github.com/GewelsJI/SINet-V2/blob/main/AWESOME_COD_LIST.md
 
 **Methods**
+- SAM-COD+: SAM-Guided Unified Framework for Weakly-Supervised Camouflaged Object Detection, [TCSVT](https://ieeexplore.ieee.org/document/10789225), [CODE], 2025
 - Multi-level cross-knowledge fusion with edge guidance for camouflaged object detection, [KBS](https://www.sciencedirect.com/science/article/abs/pii/S0950705125001170), [CODE], 2025
 - Uncertainty-Guided Diffusion Model for Camouflaged Object Detection, [TMM](https://ieeexplore.ieee.org/abstract/document/10855518), [CODE], 2025
 - MM-CamObj: A Comprehensive Multimodal Dataset for Camouflaged Object Scenarios. [AAAI](https://arxiv.org/abs/2409.16084),[CODE](https://github.com/JCruan519/MM-CamObj), 2025
