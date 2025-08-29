@@ -5,6 +5,7 @@
 - https://github.com/GewelsJI/SINet-V2/blob/main/AWESOME_COD_LIST.md
 
 **Methods**
+- UpGen: Unleashing Potential of Foundation Models for Training-Free Camouflage Detection via Generative Models, [TIP](https://ieeexplore.ieee.org/document/11131534), 2025
 - FMNet: Frequency-Assisted Mamba-Like Linear Attention Network for Camouflaged Object Detection, [Arxiv](https://arxiv.org/abs/2503.11030), [CODE](https://github.com/Chranos/FMNet), 2025
 - UAT: Uncertainty-Aware Transformer for Referring Camouflaged Object Detection, [TIP](https://ieeexplore.ieee.org/document/11080234), [CODE](https://github.com/CVL-hub/UAT), 2025
 - SAM-COD+: SAM-Guided Unified Framework for Weakly-Supervised Camouflaged Object Detection, [TCSVT](https://ieeexplore.ieee.org/document/10789225), [CODE], 2025
